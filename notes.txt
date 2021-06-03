@@ -1,0 +1,8 @@
+Today I learned about 
+1. <strong> to make text bolder
+2. <h1> <h2> <h3 <h4> <h5> <h6> text sizing
+3. alt attributes which provide alternate option if image not loaded with text can there
+4. <a href="https://www.xyz"> hyper link
+5. target attribute which provide tab open to next tab or within tab to open link or web site
+6. Alignment of text <center> <right> <left>
+7. image inserting in html page using < img src ="location of image">
